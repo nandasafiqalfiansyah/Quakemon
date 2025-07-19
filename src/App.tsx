@@ -661,9 +661,9 @@ function App() {
                     }}
                   />
                 </div>
-                <p className={`text-sm ${darkMode ? 'text-gray-400' : 'text-gray-500'} mt-4`}>
+{/*                 <p className={`text-sm ${darkMode ? 'text-gray-400' : 'text-gray-500'} mt-4`}>
                   URL: {shakemapUrl}
-                </p>
+                </p> */}
               </div>
             )}
           </div>
